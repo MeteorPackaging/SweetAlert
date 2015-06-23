@@ -1,0 +1,12 @@
+{
+  "version": "1.1.135",
+  "upstream": {
+    "git": "https://github.com/t4t5/sweetalert.git",
+    "release": "v1.0.0",
+    "versionFile": "package.json"
+  },
+  "hook": {
+    "repoFullName": "sweetalert/sweetalert"
+
+  }
+}
