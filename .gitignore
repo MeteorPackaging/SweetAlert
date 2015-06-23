@@ -2,6 +2,6 @@
 ### Meteor template
 .meteor/local
 .meteor/meteorite
-
+node_modules
 
 .idea
