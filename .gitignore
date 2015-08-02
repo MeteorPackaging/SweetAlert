@@ -1,7 +1,4 @@
-# Created by .gitignore support plugin (hsz.mobi)
-### Meteor template
-.meteor/local
-.meteor/meteorite
+upstream
 node_modules
-
-.idea
+phantom_runner.js
+start_test.js
